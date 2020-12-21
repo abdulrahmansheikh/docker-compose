@@ -9,3 +9,7 @@
 ./go remove <servicename>             --  Stops and removes all the containers of a compose
 ./go ps <servicename>                 --  Lists the status of all the containers of a compose
 ```
+
+[![DeepSource](https://deepsource.io/gh/abdulrahmansheikh/docker-compose.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/abdulrahmansheikh/docker-compose/?ref=repository-badge)
+
+[![DeepSource](https://deepsource.io/gh/abdulrahmansheikh/docker-compose.svg/?label=resolved+issues&show_trend=true)](https://deepsource.io/gh/abdulrahmansheikh/docker-compose/?ref=repository-badge)
